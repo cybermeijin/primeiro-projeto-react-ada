@@ -2,7 +2,7 @@ import MeuContador from "./MeuContador";
 
 export default function App() {
   return (
-    <div>
+    <div className="container">
       <MeuContador />
     </div>
   );
